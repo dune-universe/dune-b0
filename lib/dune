@@ -1,0 +1,4 @@
+(library
+ (name dune_b0)
+ (public_name dune-b0)
+ (libraries b0.b00.std b0 cmdliner))
